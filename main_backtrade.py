@@ -1,5 +1,4 @@
 from backtrader_strategy_class import *
-import datetime
 import os.path
 import sys
 import backtrader as bt
